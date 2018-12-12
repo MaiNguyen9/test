@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Concho1.cs" />
+    <Compile Include="Concho2.cs" />
     <Compile Include="Conmeo3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

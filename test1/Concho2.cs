@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace test1
 {
-    class Concho1
+    class Concho2
     {
     }
 }
